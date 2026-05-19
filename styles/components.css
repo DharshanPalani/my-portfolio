@@ -55,7 +55,7 @@
 /* hero side label */
 
 .hero-card::after {
-  content: "SYSTEMS • REALTIME • INFRASTRUCTURE • DEV";
+  content: "SYSTEMS • REALTIME • INFRASTRUCTURE • GAME DEV";
 
   position: absolute;
 
