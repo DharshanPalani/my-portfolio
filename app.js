@@ -6,6 +6,12 @@ const projects = [
       "Realtime communication platform with custom group creation, WebSocket messaging, emoji support and username-based identity sessions.",
   },
   {
+    name: "2D game using low level library and C",
+    stack: "Raylib / C / C++",
+    description:
+      "A low level game using Raylib library using low level language like C and C++",
+  },
+  {
     name: "Event Registration Management System",
     stack: "FULL STACK",
     description:
